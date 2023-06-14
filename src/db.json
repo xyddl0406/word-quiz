@@ -1,0 +1,14 @@
+{
+  "itemDB" : [
+    {"word": "1", "isAnswer": false},
+    {"word": "2", "isAnswer": false},
+    {"word": "3", "isAnswer": false},
+    {"word": "4", "isAnswer": false},
+    {"word": "5", "isAnswer": false},
+    {"word": "6", "isAnswer": false},
+    {"word": "7", "isAnswer": false},
+    {"word": "8", "isAnswer": false},
+    {"word": "9", "isAnswer": false},
+    {"word": "10", "isAnswer": false}
+  ]
+}

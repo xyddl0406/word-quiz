@@ -20,40 +20,23 @@ body {
     padding: 0;
 }
 
-.swiper {
-    width: 100%;
-    height: 90%;
-}
 
-.swiper-slide {
-    text-align: center;
-    font-size: 15em;
-    background: #fff;
-
-    /* Center slide text vertically */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-
-.swiper-slide img {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
 
 .quiz_timer {
     display: flex;
     justify-content: center;
     align-items: center;
+
+    height: 100%;
 }
 
 .quiz_select {
-    padding: 50px;
+    padding: 10px;
 }
 
 .timer_select {
-    padding: 50px;
+    padding: 10px;
+}
+.btn_start {
+    margin-top: 300px;
 }
